@@ -1,5 +1,5 @@
 
-# [live site](https://ecoholo-virtual-zoo.netlify.app/)
+# [live site](https://gauravk04.github.io/EcoHolo-Zoo/)
 
 
 # EcoHolo Virtual ZOO
